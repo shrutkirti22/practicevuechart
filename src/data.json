@@ -1,0 +1,33 @@
+{"ProjectFlowCount":[
+    {
+       "Track":"BNP",
+       "Value":200
+    },
+    {
+       "Track":"ACQ",
+       "Value":100
+    },
+    {
+       "Track":"CSD",
+       "Value":600
+    }
+ ],
+ "JioMedia":[
+    {
+       "Stream":"Jio Music",
+       "CurUsers":200
+    },
+    {
+       "Stream":"Jio Cinema",
+       "CurUsers":300
+    },
+    {
+       "Stream":"Jio TV",
+       "CurUsers":100
+    },
+    {
+       "Stream":"Jio Magzine",
+       "CurUsers":600
+    }
+ ]
+}
